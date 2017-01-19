@@ -3,7 +3,7 @@ require 'bundler'
 Bundler.require
 
 #姓と名の間に半角スペース
-keyword = "江戸川 乱歩"
+keyword = "江戸川乱歩"
 #「江戸川」のときは「あ行」。50音にないときは「他」。
 initial = "あ"
 top_url = "http://www.aozora.gr.jp/"
